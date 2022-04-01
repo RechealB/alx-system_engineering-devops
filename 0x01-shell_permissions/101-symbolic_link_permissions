@@ -1,3 +1,2 @@
 #!/bin/bash
-#!/bin/bash
-chown -h vincent:staff _hello[D[D[D
+chown -h vincent:staff _hello
